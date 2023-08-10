@@ -1,5 +1,5 @@
 {
-  "name": "next-expo-solito-monorepo",
+  "name": "learn-tamagui-solito",
   "private": true,
   "workspaces": [
     "apps/*",
